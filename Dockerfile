@@ -1,4 +1,4 @@
-# Install a more up to date mongodb than what is included in the default ubuntu repositories.
+
 
 FROM ubuntu
 MAINTAINER Kimbro Staken
